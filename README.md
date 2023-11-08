@@ -26,10 +26,10 @@ Deploying ML models into real-world applications requires careful consideration 
 
 ### This repository consists of the following folders:
 
-### PythonLibraries:
+### 1. PythonLibraries:
 Contains essential Python libraries commonly used for various machine learning tasks. Explore this folder to understand the usage and implementation of these libraries in your ML projects.
 
-### MLAlgorithms:
+### 2. MLAlgorithms:
 Includes a collection of ML algorithms implemented in Python. Each algorithm comes with detailed explanations and examples to help you grasp the core concepts and practical applications of these algorithms.
 
 #### Feel free to explore each folder to gain insights into the diverse applications of ML and delve deeper into the code provided.
