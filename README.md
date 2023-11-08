@@ -18,6 +18,18 @@ The evaluation of ML models is crucial to understanding their performance and ef
 ### Deployment
 Deploying ML models into real-world applications requires careful consideration of various factors such as scalability, latency, and model monitoring. ML models can be deployed as APIs, integrated into existing systems, or used in standalone applications, depending on the specific use case and requirements.
 
-### ML has found applications in various fields, including natural language processing, computer vision, healthcare, finance, and many more. Its ability to handle complex, unstructured data and generate valuable insights has made it an essential tool for businesses and researchers alike.
+#### ML has found applications in various fields, including natural language processing, computer vision, healthcare, finance, and many more. Its ability to handle complex, unstructured data and generate valuable insights has made it an essential tool for businesses and researchers alike.
 
-### Understanding the intricacies of ML requires a strong foundation in mathematics, statistics, and computer science. As the field continues to evolve, new techniques and algorithms are constantly being developed to tackle more complex problems and improve the efficiency and accuracy of ML systems.
+#### Understanding the intricacies of ML requires a strong foundation in mathematics, statistics, and computer science. As the field continues to evolve, new techniques and algorithms are constantly being developed to tackle more complex problems and improve the efficiency and accuracy of ML systems.
+
+## Usage
+
+### This repository consists of the following folders:
+
+### PythonLibraries:
+Contains essential Python libraries commonly used for various machine learning tasks. Explore this folder to understand the usage and implementation of these libraries in your ML projects.
+
+### MLAlgorithms:
+Includes a collection of ML algorithms implemented in Python. Each algorithm comes with detailed explanations and examples to help you grasp the core concepts and practical applications of these algorithms.
+
+#### Feel free to explore each folder to gain insights into the diverse applications of ML and delve deeper into the code provided.
